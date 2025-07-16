@@ -58,7 +58,7 @@
     "keyApi": "MDongVip_6886904368"
   },
   "autoCleanCache": {
-    "Enable": false,
+    "Enable": true,
     "CachePath": "./modules/commands/cache",
     "AllowFileExtension": [
       ".png",
